@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CanBeRigidbody
+  - Play
+  - Options
+  - Exit
+  - camera
+  - Hight
+  - Normal
+  - Low
+  - Back
+  - Reset
+  - Health
+  - Ammo
+  - Audio_On
+  - Audio_Off
+  - Robot
+  - rocket
+  - pickup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapons
+  - CanBeRigidbody
+  - GUI
+  - Robot
+  - Ceiling
+  - PlayerOne
+  - PlayerTwo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
