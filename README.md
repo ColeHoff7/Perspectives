@@ -1,0 +1,1 @@
+Cooperative Puzzle Game where each player has to work together to reach the end. The twist? Each player can only see certain things in the world and have to communicate to describe what they are seeing to solve puzzles.
